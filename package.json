@@ -1,0 +1,12 @@
+{
+  "name": "webpack-stages",
+  "version": "1.0.0",
+  "description": "Webpack 0 to 1.",
+  "repository": "https://github.com/chioio/webpack-stages.git",
+  "author": "Tenn Chio <Tenn_Chio@icloud.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
