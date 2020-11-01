@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ProFont';
+  src: url('../fonts/ProFont.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: gray;
+  font-family: 'ProFont';
+  background: url('../images/icon.svg');
+}
