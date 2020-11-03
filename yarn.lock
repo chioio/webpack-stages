@@ -3715,6 +3715,11 @@ webpack-merge@^4.2.2:
   dependencies:
     lodash "^4.17.15"
 
+webpack-numbers@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/webpack-numbers/-/webpack-numbers-1.0.1.tgz#d470b5974ff6842cf5c8887dfd49f3713ddd80bc"
+  integrity sha1-1HC1l0/2hCz1yIh9/UnzcT3dgLw=
+
 webpack-sources@^2.1.1:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-2.2.0.tgz#058926f39e3d443193b6c31547229806ffd02bac"

@@ -1,0 +1,14 @@
+{
+  "name": "webpack-library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^5.3.2"
+  },
+  "dependencies": {
+    "webpack-numbers": "^1.0.1"
+  }
+}
